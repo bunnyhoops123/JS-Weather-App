@@ -40,7 +40,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, please feel free to contact me at [sumukh.varmay@gmail.com](mailto:sumukh.varmay@gmail.com).
 
 ---
 
