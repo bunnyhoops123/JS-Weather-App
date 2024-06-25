@@ -1,7 +1,5 @@
 # Weather App
 
-![Weather App](https://d26udncvn7dcfr.cloudfront.net)
-
 ## Overview
 
 Welcome to the Weather App! This simple website allows you to search for weather data by city name. Enter the name of any city into the search bar, and the app will display cards with the current weather information for that city.
